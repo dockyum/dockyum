@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning deep-learning, CNN
+- 🌱 I’m currently learning deeplearning, CNN
 - 🛸 I'm trying to build a autonomous drone - indoor
